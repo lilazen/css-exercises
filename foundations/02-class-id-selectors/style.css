@@ -1,0 +1,22 @@
+.impares {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+} 
+
+.tres {
+    font-size: 24px;
+}
+
+#title {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#numero4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+ 
+}
